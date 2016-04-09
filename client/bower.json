@@ -9,5 +9,8 @@
   },
   "resolutions": {
     "ember": "2.3.0"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
   }
 }
