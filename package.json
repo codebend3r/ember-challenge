@@ -1,6 +1,6 @@
 {
-  "name": "client",
-  "version": "0.0.0",
+  "name": "ember-challenge",
+  "version": "0.0.1",
   "description": "Small description for client goes here",
   "private": true,
   "directories": {
@@ -16,7 +16,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Chester Rivas",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
